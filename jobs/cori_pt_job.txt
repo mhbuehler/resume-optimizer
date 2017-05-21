@@ -1,0 +1,26 @@
+Senior Informatics Research Assistant
+Gastroenterology/CORI
+
+Required Qualifications:
+
+Bachelor's degree plus 3 years of work experience in Computer Information or Technology/software development.
+
+Experience in database design, administration, system architecture.
+Oracle and/or Microsoft SQL Server database administration.
+Skilled in writing SQL and stored procedures.
+Expertise with a scripting language (Python preferred).
+
+Preferred Qualifications:
+
+Experience developing software requirements and specifications.
+Experience creating database-driven web or client/server applications.
+Familiarity with research methodologies/research experience.
+Familiarity with medical profession/experience working with medical personnel.
+PHP or other web development skills.
+Skills		
+
+Brief Description		
+.50 FTE increasing to 1.0 as funding increases; Salary: $55,000 – 75,000 at 1.0 FTE, Location: Marquam Hill
+
+Detailed Description		
+This position is responsible for creating and maintaining databases used by the team of medical researchers and analysts in the Division of Gastroenterology/CORI for retrospective and prospective clinical research, and for database programming as required for population of and retrieval of data from these databases

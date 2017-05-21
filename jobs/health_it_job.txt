@@ -1,0 +1,36 @@
+Business Intelligence Developer 
+Portland, OR; Lewiston, ID; Salt Lake City, UT or Seattle, WA 
+
+Seeking clever, highly skilled Developers to code us out of this health care mess. 
+
+Bring your technical expertise to the following role: 
+
+* Participate in a team environment for the delivery and maintenance of application systems 
+* Responsible for programming, debugging and testing of BI applications in a development environment 
+* Generally responsible for BI tools development and system testing 
+* Provide technical, interpersonal and administrative skills in performing day to day work 
+* Expected deliverables include but are not limited to requirements analysis, system analysis, system design, data models, program design, source code development, test case development, testing, and documentation 
+* In this position it is essential that RITS departmental policies and procedures be adhered to. Those include, but are not limited to; technical and architecture standards, production implementation standards, regular status reporting, regular participation in team meetings, regular one on one meetings with supervisor and team lead, and providing work estimates and regular time tracking 
+
+Combine your degree and multi-platform experience with the following skills: 
+
+* Bachelor's Degree in Computer Science, Mathematics, Business Administration, Engineering; Appropriate additional experience beyond the minimum required experience may be substituted for education 
+* 3 years relevant experience in a multi-platform environment, including, but not limited to application development or database development; Prefer qualified candidate to have 2 + years' experience in either SAS BI, SSRS, or other comparable BI tool 
+* Must have expertise in relational and multidimensional database schemas 
+* Experience in designing and building OLAP (online analytical processing) cubes, applying data mining algorithms, writing queries, and designing reports 
+* Experience in Health care is desired 
+* Communicates clearly in a timely manner in both verbal and written communication 
+* Work well with, and potentially lead, groups of business customers and IT partners 
+* Provide direction to others in analyzing and solving program and system issues and problems 
+* Technically proficient in core technologies and methodologies used by the team 
+* Effectively adapt to rapidly changing technologies and methodologies and apply them to technological and/or business needs of mid-level scope 
+* Analyze, diagnose and resolve complex programming problems and system coordination issues 
+* Provide technical direction and solutions to other team members 
+* Lead multi-discipline teams for work efforts which includes estimating, coordinating, tracking progress, inspiring others to complete tasks on time, assisting with resolving issues and creating status reports 
+
+Hard work and dedication are rewarded: 
+We offer a competitive salary and a generous benefits package. 
+
+Join an innovative, forward-thing development team. 
+
+We are an equal opportunity employer dedicated to workforce diversity and a drug and tobacco-free workplace. Drug Screening and Background Check is required.

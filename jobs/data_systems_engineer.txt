@@ -1,0 +1,70 @@
+Data Systems Engineer
+Machine Learning - (OO/Python/Big Data) - This role requires you to relocate to Bangkok, Thailand
+
+Company:
+
+Our client is one of the leading and fastest growing IT employers in Southeast Asia. With world class talent from over 65 countries, the atmosphere of a start-up and the muscle of a $3bn business, this company is an incredible technical creative melting pot.
+
+
+
+Role:
+
+As a Data Systems Engineer you will be joining their Bangkok team bringing your experience of OO software engineering. You will contribute to expanding, scaling and innovating in their machine learning development group. Being a top-quality software engineer and passionate about data you will enjoy working in an agile environment writing lean, efficient code that serves as the backbone of our client's cutting edge online hotel booking platform. 
+
+The machine learning team develops systems that affect the entire business funnel. Their long term vision is to have Machine Learning participate in the decision making of every aspect of the product in real time - from the initial marketing to the post-payment page.
+
+The team is composed of experienced mathematicians and developers, working together to create products that make a substantial impact on the business of the company. Working there will expose developers to inner workings of Machine Learning from both the theoretical and practical side.
+
+
+
+Responsibilities:
+
+As a Data Systems Engineer you will help:
+
+Design, write, test and deploy new systems
+Build systems, scalable and ready for millions of visitors, daily.
+Use hardware to the fullest extent possible
+Ensure systems are fault tolerant or self-healing
+Determine how to store and retrieve our data. Petabytes of it.
+Develop parallel analytic models (linear regression, random forest etc.,)
+Develop analytic models on Massively Parallel Processing (MPP) in-memory analytical platform.
+Analyze data using SQL, R, python, C, Shell scripts, Numerical Algorithm Group (NAG) libraries.
+Debug memory dumps; thrashing thread pools, scaling load tests
+Fight with the garbage collector
+Find the next technological innovation
+
+
+
+
+Some of the technologies that our client likes:
+Big Data Technologies (E.g.: Hadoop, Spark, Techyon)
+OO technologies (E.g.: Python, Scala)
+Server side web technologies (E.g.: Django, Celery)
+NoSQL database technologies (E.g.: Cassandra, Hadoop, Redis)
+Cloud technologies (E.g.: Azure, Amazon, OpenStack)
+Messaging (E.g.: RabbitMQ)
+
+
+Requirements:
+At least 3 years' experience in back end/server side software development using OO technologies
+At least 3 years' experience in modern development technologies (listed in "the technologies we like" section)
+Experience of working in a test driven environment
+Great communication and interpersonal skills
+Mindset of a team player
+The ability to communicate clearly in spoken and written English
+
+
+Our client offers:
+Competitive annual salary
+15% Tax (for international candidates with a min of 5 years working exp)
+Medical coverage
+Discounted hotel accommodation; anywhere in the world
+Exposure to travel industry
+Excellent growth opportunities
+Exciting, multicultural environment
+Dress code: smart casual
+
+
+We welcome both local and international applications for this role. Full visa sponsorship and relocation assistance available for eligible candidates. 
+
+If you are a Data Systems Engineer and the idea of becoming part of this team appeals to you we want to hear from you straight away. Send us your CV now.
