@@ -1,0 +1,111 @@
+Business Analytics Specialist
+
+This is an analytic position that bridges the worlds of Business Analytics, Management Accounting and 
+Data Visualization. 
+ 
+Do you like to play with financial data? Do you like to create data rich graphics that engage people? Do 
+you like producing reports that result in action? Our ideal candidate will enjoy organizing financial and 
+related data, using data to create decision-support tools, as well as create a variety of reports and innovative 
+dashboards and visual management tools.  While an understanding of underlying financial transactions is 
+crucial, the focus of the position will be the distillation and presentation of the financial information to 
+operations staff, project managers and decision-makers.  The position will also maintain and improve the 
+underlying data structure in the Oracle EBS Project Module to facilitate downstream use of the data.   
+ 
+Excellent communication and collaboration skills will allow this position to discuss and understand the real 
+information needs of a variety of colleagues:  project managers, operations staff, financial staff and division 
+management.  Once the needs are understood, the candidate will do the necessary data mining, and develop 
+appropriate analytics to address the need.  The successful candidate will be able to apply excellent 
+"translation" skills to then interpret dashboards and analytics for a wide variety of users. 
+ 
+We are looking for an employee who is energized when confronted by steep learning curves and deep dives 
+into the analysis of complex financial and operational information. 
+ 
+ 
+WHO MAY APPLY: This position is open to all qualified candidates.  Announcement is open until 
+filled.  First review of applications received will occur after April 28, 2017. 
+  
+WORK SCHEDULE: This position normally works 8:00 a.m. Ð 5:00 p.m., Monday through Friday. Work 
+may be required in the evenings and on weekends and holidays.  This position is FLSA exempt and is not 
+eligible for overtime.  This position may be required to work after hours, weekends, and holidays 
+depending on the workload. 
+  
+REQUIRED MATERIALS: The following materials are required: 
+(1)   An online King County application form 
+(2)   Resume 
+(3)   Cover letter (300 - 500 words) describing how your experience meets the chief requirement of 
+preparing and presenting materials in a graphical, tabular, and dashboard format; and 
+(4) Answers to the supplemental questions.  
+ 
+PLEASE NOTE: Your application will be rejected as incomplete if you do not include the requested and 
+relevant information in the on-line application and include the information only on the letter of interest 
+and/or resume. Applications that state "see my resume" are considered incomplete and will not be 
+accepted. Resumes are not accepted in lieu of a completed job application. 
+ 
+UNION REPRESENTATION:  This position is represented by the Professional Technical Employees 
+(PTE) Local 17M, Department of Transportation. 
+ 
+QUESTIONS:  Contact Melinda Dickie at Melinda.Dickie@kingcounty.gov or (206) 477-3608. 
+ 
+ Job Duties: 
+*	Maintain and improve project costing hierarchy to facilitate analysis and management decision 
+making
+*	Maintain system project attributes to facilitate internal and external reporting
+*	Establish projects, task coding, work breakdown structures in KC's Oracle EBS
+*	Super-user of King County's new financial business intelligence tools
+*	Develop and customize management dashboards
+*	Develop project based financial management reports and dashboards
+*	Develop and prepare complex financial, budget, labor and statistical  reports quickly and 
+accurately responding to address ad hoc and last minute management needs
+*	Compile budget information, graphs, and dashboards for the division's biennial Line of Business 
+(LOB) plan
+*	Recommend process improvements to improve information management and improve currency of 
+information available to management and operations
+*	Collaborate in preparing and submitting annual County Road Administration Board (CRAB) 
+reports
+*	Collaborate in preparing and submitting annual state BARS report
+*	Other duties as assigned
+
+ Experience, Qualifications, Knowledge, Skills: 
+*	Bachelor's degree or equivalent experience and education in management accounting, government 
+accounting, public administration, project management, business analytics
+*	Knowledge and demonstrated ability in project and financial accounting concepts and principles 
+including generally accepted accounting principle and indirect cost accounting
+*	Experience in statistical, financial, and large data analysis
+*	Excellent skills in data envisioning and business analytics (BA/BI)
+*	Expert level knowledge and practical experience in Excel, Word, and Access.  Ability to develop 
+and present complex financial spreadsheets and graphs, interpret financial models and make 
+modifications as required
+*	Strong background in data manipulation and management using excel, access, data warehouse and 
+enterprise financial management systems
+*	Joy in data mining
+*	Excellent written and verbal communication skills
+*	Excellent collaboration and facilitation skills
+*	Ability to grasp issues quickly, adapt and manage changing priorities in a fast paced work 
+environment
+*	Ability to work on multiple tasks accurately and quickly in a high pressure/short deadline 
+environment
+*	Ability to work independently under limited supervision, prioritizing assignments, often with 
+conflicting priorities
+*	Demonstrated ability to create and analyze financial models used for making business and 
+budgeting decisions
+  
+Desired Skills, Education, Experience: 
+ 
+*	Advanced degree in management accounting, government accounting, public administration, 
+project management, business analytics or other related field
+*	Experience or certification in project management, knowledge of advanced project management 
+concepts
+*	Experience or knowledge of Lean  process improvement processes and concepts
+*	Experience in graphic design
+*	Experience in editing, coordinating and producing large documents that incorporate elements from 
+many contributors
+*	Experience in development of financial or project management dashboards
+*	Facility with data management tools like SQL Reporting, Access database development, Excel 
+PowerPivot
+*	Excellent public speaking skills
+*	Experience working in the public sector, especially local government
+*	Familiarity with Washington BARS accounting
+*	Experience working with enterprise financial systems, especially Oracle EBS General Ledger and 
+Project Modules, PeopleSoft Payroll, Hyperion Enterprise Performance Management System, 
+Smart View, PeopleSoft Query, OBIEE Business analytics and data warehouse
+
