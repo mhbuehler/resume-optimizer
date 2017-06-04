@@ -1,0 +1,56 @@
+Web and Database Developer
+
+Denali Advanced Integration is one of the nation’s leading technology integrators by 
+volume and capacity with experience in Data Center, Unified Communication’s, 
+Mobility and Virtualization. Denali has more than 400 dedicated employees focused 
+on design, architecture, implementation and operations. From Client End Devices to 
+the Cloud, Denali provides service to retail, healthcare, industrial and government 
+environments both domestically and abroad. 
+ 
+We are seeking a Senior .Net Developer who can independently build a web-based 
+application and the BI reports around it. This includes front, middle and back-end 
+development, SSRS and SSIS. This is an ongoing contract engagement. 
+ 
+ 
+ESSENTIAL DUTIES:  
+ 
+Requirements gathering and analysis, system design and specification, build, 
+prototype, unit testing, integrated testing, validation and verification, installing, 
+configuration, customization, troubleshooting, training of users and new 
+applications, modification and support across the enterprise. 
+Design new solutions or fixes to enhance existing applications using web-enabled 
+development programs using .Net 4.5, C#, ASP.Net, HTML, CSHTML, JavaScript, and 
+similar or other web services and service oriented tools. 
+Design and build relational databases using Microsoft SQL Server including 
+performance tuning and database backup/recovery. 
+Develop web site and web plug-in tools, databases, queries and SSRS reports. 
+Maintain and evolve the External and Internal Portals, and similar applications. 
+Support users on existing applications. 
+ 
+ 
+BASIC QUALIFICATIONS: 
+ 
+Proficiency in .NET Framework version 4.5, Web Technologies and IIS 
+Proficiency in OOP, Design Patterns, main Data Structures, Enterprise level Web and 
+Windows applications using SQL Server, Oracle or other high performance DBMS. 
+SQL Technologies: Transnational level SQL (including stored procedures, views and 
+indexes, and performance optimization). 
+Demonstrated knowledge of creating reports using SSRS. 
+Experience with SSIS is a plus. 
+Strong skills in database application development including working knowledge of 
+data design and development with Microsoft SQL Server DBMS system. 
+Development and SDLC tools: Visual Studio, TFS, SQL Server Management Studio, 
+SVN, YouTrack or similar tools or Proven technical leadership skills. 
+Proven experience developing appropriate systems and metrics for measuring 
+progress, backlogs, workloads, staffing, and other project resources. 
+Knowledge of how to architect and design a new application and integrate multiple 
+applications and databases for consumption by internal and external customers. 
+Extensive experience building Enterprise level Web/Windows applications, testing 
+and integration. 
+Knowledge of Windows-based web server administration is a plus. 
+Must be able to work independent with minimum supervision. 
+Must be able to communicate in writing and verbally all projects progress. 
+Experience in the mortgage, banking, or finance industries a plus. 
+ 
+This is an onsite role - local candidates are highly desired and will be given first 
+preference.

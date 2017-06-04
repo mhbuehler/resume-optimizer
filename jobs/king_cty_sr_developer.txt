@@ -1,0 +1,82 @@
+Senior Applications Developer
+Develop advanced applications, enhancements, and system interfaces with 
+responsibility for the full software development life cycle utilizing a broad 
+understanding of client systems and business processes for the King County 
+Department of Executive Services.
+OPENING DATE/TIME: 05/04/17 12:00 AM (GMT -8:00) 
+CLOSING DATE/TIME: 06/19/17 11:59 PM (GMT -8:00) 
+
+SALARY: Not Displayed 
+LOCATION: Chinook Building - 401 5th Ave, Seattle 
+JOB TYPE: Career Service, Full Time, 40 hrs/week 
+DIVISION: Department of Executive Services - Business Resource Center 
+JOB NUMBER: 2017RJ06912 
+SUMMARY: 
+ POSITION TITLE:  Senior Applications Developer
+ 
+POSITION DUTIES:  Develop advanced applications, enhancements, and system 
+interfaces with responsibility for the full software development life cycle 
+utilizing a broad understanding of client systems and business processes. 
+Provide support to multiple applications and systems and work on major, critical 
+or complex development projects. Develop and support applications for highly 
+complex systems requiring a thorough analysis of the business processes that 
+these systems support. Maintain and support software systems requiring complex 
+application modifications and enhancements, and maintain and modify mainframe, 
+client-server, or web-based applications. Respond to software system failures 
+and analyze and resolve underlying problems. Provide technically advanced client 
+data support, including producing custom reports, downloading files, and other 
+projects. Evaluate existing applications for process efficiency, system 
+integrity, security and data quality, and redesign and replace selected 
+application sub-systems as needed. May perform other duties as assigned.
+ 
+MINIMUM REQUIREMENTS:       
+ 
+Bachelor's degree in computer science, computer applications, or a closely 
+related technical field of study, or the foreign degree equivalent*;
+ 
+Five years of professional work experience designing, developing and 
+implementing software applications using Oracle databases and tools, including:
+o 5 years utilizing Software Development Life Cycle (SDLC) methodologies, 
+standards and procedures.
+o 5 years developing end to end system integration design using Service Oriented 
+Architecture, customizations and reports for enterprise business systems.
+o 4 years  utilizing Oracle Fusion Middleware, Oracle SOA Suite, Oracle EBS OA 
+Framework, and Oracle Workflow.
+o 3 years utilizing Oracle BPEL, Java, XML, and SOAP web Services.
+o 5 years utilizing TML, XHTM, SQL, PL/SQL, and shell script.
+o 5 years utilizing Oracle EBS Business Cycle: Procure to Pay, Order to Cash, 
+Accounts Receivables, Project Accounting, General Ledger, Purchasing, 
+iProcurement, Order Management, BOM, Advanced Pricing, Costing, Inventory, and 
+AR Dunning Letters.
+o 4 years working with WebLogic and Oracle Enterprise Manager.
+o 5 years  utilizing JDeveloper, BI Publisher 11g, SQL Developer, User 
+Productivity Kits (UPK's), Oracle Discoverer 11g, Toad, XML editor such as XML 
+Spy, SOAP UI, Putty, MS Visio, and SVN.
+o 5 years utilizing data structures and Entity Relationship (ER) diagramming.
+o 5 years working with UNIX/LINUX Operating Systems.
+o 5 years working on ERP upgrade project and EBS technical patch analysis.
+o 5 years utilizing a requirements-driven Waterfall Software Development 
+Methodology such as Oracle AIM.
+o 5 years working Oracle Open interfaces and API's to develop interface and 
+conversion programs.
+o 5 years working on HP Quality Center and Kintana for tracking issues while 
+testing the end to end process.
+o 5 years of experience at all stages of project lifecycle, from business 
+requirements and technical definitions to development, testing, user acceptance 
+testing (UAT), and production support.
+o 5 years of experience participating in business and functional requirements 
+gathering and translating the requirements into technology solutions.
+ 
+*In lieu of a Bachelor's degree, the employer will accept an additional two 
+years of professional work experience designing, developing, and implementing 
+software applications using Oracle databases and tools.
+ 
+LOCATION OF
+EMPLOYMENT:               40 hours/week; in Seattle, WA.
+ 
+SEND
+APPLICATION TO:           King County, Dept. of Executive Services
+                                          James Fournier, Compensation & 
+Employment Services Manager
+                                          500 4th Avenue, Room 553
+                                          Seattle, WA 98104 

@@ -29,6 +29,7 @@ def read_job_description(file_path):
     job_data['keywords'] = extract_keywords(job_data['description'])
     job_data['value_sentences'] = extract_value_sentences(job_data['description'])
     job_data['actions'] = extract_actions(job_data['description'])
+    job_data['acronyms'] = extract_acronyms(job_data['description'])
     return job_data
 
 def extract_keywords(textblob):
@@ -57,6 +58,20 @@ def extract_actions(textblob):
     counter = Counter(verb_roots)
 
     return sorted(counter.items(), key=lambda x: x[1], reverse=True)
+    
+def extract_acronyms(textblob):
+    """Creates a list of words beginning with at least 2 capital letters that are not regular English words, in descending order of frequency.
+       enchant dictionary returns True if word is an English word."""
+    import enchant
+    d = enchant.Dict("en_US")
+    words = textblob.words
+    counts = []
+    for word in words:
+        if len(word) > 1:
+            if word[0].isupper() and word[1].isupper() and word not in [p[0] for p in counts]:
+                if not d.check(word):
+                    counts.append((word, textblob.words.count(word))) 
+    return counts    
 
 def compute_similarity(textblob_1, textblob_2):
     documents = [str(textblob_1), str(textblob_2)]
@@ -84,6 +99,7 @@ def suggest_synonyms(words, target_words):
 def main(job_file_path, resume_path=None):
     job = read_job_description(job_file_path)
     print "Job Title: {title}\n\nKeywords: {keywords}\n\nValue Sentences: {value_sentences}\n\nActions: {actions}".format(**job)
+    print "\n\nThe following acronyms appear in job description:  {acronyms}".format(**job)
 
     if resume_path:
         resume = read_resume(resume_path)
