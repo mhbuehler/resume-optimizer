@@ -61,9 +61,9 @@ class ResumeOptimizer:
     def list_skills(self, job_skills, resume_skills):
         cell_length = max([len(s[0]) for s in job_skills]) + 2
         row_format = "{{:<{}}}".format(cell_length) * 4
-        print 'SKILL REPORT'
+        print 'SKILL REPORT for {}'.format(self.job['title'].upper())
         print '************\n'
-        print row_format.format(self.job['title'], 'Relevance', 'Your Resume', 'Relevance')
+        print row_format.format('Job Ad Skills', 'Relevance', 'Your Skills', 'Relevance')
         print ''
         for i, skill in enumerate(job_skills):
             if i < len(resume_skills):
@@ -84,10 +84,12 @@ class ResumeOptimizer:
         matched_skills = [s for s in job_skills if s[0] in [rs[0] for rs in resume_skills]]
         cell_length = max([len(s[0]) for s in job_skills]) + 2
         row_format = "{{:<{}}}".format(cell_length) * 3
-        print row_format.format('Matching Skills', 'Job Importance', 'Your Importance')
+        print '\nMATCHING SKILLS'
+        print '***************\n'
+        print row_format.format('Matching Skill', 'Job Relevance', 'Your Relevance')
         for i, skill in enumerate(matched_skills):
             resume_importance = [rs[1] for rs in resume_skills if rs[0] == skill[0]][0]
-            print row_format.format(skill[0], skill[1], resume_importance)
+            print row_format.format(skill[0].upper(), skill[1], resume_importance)
 
     def optimize_skills(self):
         # Print out skills in order of relevance
