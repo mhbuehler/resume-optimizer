@@ -1,0 +1,43 @@
+Machine Learning/NLP Engineer
+Netpace - San Francisco, CA
+Machine Learning/NLP Engineer
+
+Fulltime
+
+San Francisco, CA
+
+Compensation: range 130k - benefits - equity
+
+Office location
+
+- Private office near 7th and Mission
+
+One of our startup client is looking for a Machine Learning Engineer to work on their automated recruiting assistant, a chat agent that communicates directly with candidates to help them through the job application process, administering pre-screening and assessments, scheduling in-person interviews, delivering on-boarding materials, and more.
+
+The ideal candidate has:
+
+- Bachelor in Computer Science or closely related fields or equivalent
+
+Work experience
+
+- Understanding of state of the art machine learning techniques
+
+- Exposure to NLP concepts
+
+- 12+ months Python experience
+
+- Experience with sklearn, keras, tensorflow, etc.
+
+- Consistently delivers tests and lint free code
+
+Interview Process
+
+- 30 minute chat w/tech lead
+
+- small take home project (skipped with relevant code portfolio)
+
+- half day onsite interview
+
+- follow up call with CEO
+
+Job Type: Full-time

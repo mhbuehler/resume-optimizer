@@ -1,0 +1,14 @@
+Data Engineer
+
+You have experience with one or more of Python, Java, Elasticsearch, Cassandra, Kafka, Spark, or any part of the Hadoop ecosystem.
+You’ve built batch- and stream-processing layers to support large amounts of production data. You’ve built a variety of materialized views to serve that processed data. You’ve spent time thinking about how to make these systems performant, scalable, fault tolerant (to both human and computer error), simple to extend, and flexible enough to support a variety of real business use cases.
+You’ve built systems that have served thousands of machine learning models to customer facing web applications. Maybe you even wrote code that enabled dynamic re-training and evaluation of those models.
+You like words like “idempotent” and “immutable.”
+You think it sounds like fun to write a new operating system or partition tolerant database from scratch, but you know how to pick a tool that works for the job at hand.
+You love to write. You believe that a great idea isn’t worth much if you can’t convince people it’s a great idea.
+You love to write code. You like to think about architecture and design, too, but you’re not happy unless you get your hands dirty and produce real code that works.
+You don’t think it’s real code unless it’s bringing real value to real people.
+You always strive to find empathy – for your team, for the people using your software, for the other teams who have to support what you do (e.g., customer success, sales, marketing), and for that person three years from now who’s trying to fix a bug in your code.
+You want to collaborate with data scientists, UI/UX designers, and product managers.
+You like to work on a team of people with diverse viewpoints and backgrounds.
+You don’t mind being wrong.
